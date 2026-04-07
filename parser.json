@@ -1,7 +1,6 @@
 {
-  "url": "https://github.com/AlexanderBrevig/tree-sitter-forth",
-  "lang": "forth",
   "parser_version": "360ef13f8c609ec6d2e80782af69958b84e36cd0",
-  "location": null,
+  "lang": "forth",
+  "url": "https://github.com/AlexanderBrevig/tree-sitter-forth",
   "semver": false
 }
